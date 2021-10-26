@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.mainContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-items: center;
+	padding: 20px;
+}
+
+.date {
+	color: blue;
+}
+
+.time {
+	color: green;
+}
